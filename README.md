@@ -1,1 +1,8 @@
-# Projects
+# Programming Projects
+| Application | Inspiration | Features | Tech | Presentation |
+| ------ | ------ | ------ | ------ | ------ |
+| More Plates More Dates | My friends and I wanted to manage our workouts, share them and compete. | Haptic feedback, notifications, modern interface, confetti effects, intuitive UI, input sanitization and feedback | Android and various libraries| [Click here](https://www.youtube.com/watch?v=pCMMEtVZIIA&list=PLhTtXFMKXOq4HgPnhP0WEjE8imUwLMXv5&index=1&pp=gAQBiAQB)
+| The Erudite | I wanted to simplify and enhance an online English dictionary. | Tooltips, API calls to an official dictionary, cards with the base word, phonetic pronunciation, audio clip, part of speech, definition, and a Wikipedia link. Cards are contained within a carousel | Angular, Typescript, CSS, PrimeNG | [Click here](https://www.youtube.com/watch?v=ajdeqdh1yfQ)
+| Learning Morse Code | I wanted to learn Morse Code whilst having fun. | Extensive table with filters and audio bites, fun mini-games, an intuitive UI | Angular, Typescript, CSS, PrimeNG| [Click here](https://www.youtube.com/watch?v=yC-5et95mAQ)
+| Viribus | I wanted an Android version of a basic social media app with human recognition based on a TensorFlow model.| Intuitive UI, photo selection, taking photos, processing photos with a TensorFlow model, Toast notifications, push notifications| Firebase, Android, and various libraries | [Click here](https://www.youtube.com/watch?v=zC4XaXyUabQ)
+| Slang And Dialects | I wanted to document slang and dialects in Slovenia. | Entry creation, entry editing, entry deletion, interactive map, haptic feedback, Toast notifications| Android and various libraries| [Click here](https://www.youtube.com/shorts/y0ISWxmMpqU)
